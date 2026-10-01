@@ -15,9 +15,19 @@ export interface AdMobConfig {
 // ADMOB CONFIGURATION FOR ANDROID RELEASE APK
 // Clearly designated production insertion points:
 // ==============================================================================
+
+// ADMOB_APP_ID:
+// PRODUCTION_ADMOB_APP_ID_HERE
 export const PRODUCTION_ADMOB_APP_ID_HERE = 'ca-app-pub-XXXXXXXXXXXXXXXX~XXXXXXXXXX';
+
+// BANNER_AD_UNIT_ID:
+// PRODUCTION_BANNER_AD_UNIT_ID_HERE
 export const PRODUCTION_BANNER_AD_UNIT_ID_HERE = 'ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX';
+
+// INTERSTITIAL_AD_UNIT_ID:
+// PRODUCTION_INTERSTITIAL_AD_UNIT_ID_HERE
 export const PRODUCTION_INTERSTITIAL_AD_UNIT_ID_HERE = 'ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX';
+
 export const PRODUCTION_REWARDED_AD_UNIT_ID_HERE = 'ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX';
 
 // Official Google AdMob Test Ad Unit IDs for Android Development:

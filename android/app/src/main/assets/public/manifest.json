@@ -1,0 +1,19 @@
+{
+  "name": "Zombie Survival: Last City",
+  "short_name": "ZombieSurvival",
+  "description": "Intense mobile 3D post-apocalyptic zombie survival action game with weapons, upgrades, and missions.",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "landscape-primary",
+  "background_color": "#000000",
+  "theme_color": "#090d16",
+  "categories": ["games", "action"],
+  "icons": [
+    {
+      "src": "/src/assets/images/game_survivor_hero_1790842459435.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
