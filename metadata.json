@@ -1,0 +1,6 @@
+{
+  "name": "Zombie Survival: Last City",
+  "description": "Intense mobile 3D post-apocalyptic zombie survival action game with weapons, upgrades, and missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
